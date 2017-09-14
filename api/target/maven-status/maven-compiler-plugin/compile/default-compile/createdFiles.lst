@@ -1,0 +1,14 @@
+com\project\api\entity\Wind.class
+com\project\api\ServletInitialize.class
+com\project\api\controller\WeatherController.class
+com\project\api\exceptions\BadRequestException.class
+com\project\api\exceptions\NotFoundException.class
+com\project\api\repository\implementation\WeatherRepoImpl.class
+com\project\api\WebConfig.class
+com\project\api\service\implementation\WeatherServiceImpl.class
+com\project\api\SwaggerConfig.class
+com\project\api\entity\Weather.class
+com\project\api\JPAConfig.class
+com\project\api\repository\WeatherRepo.class
+com\project\api\constants\URI.class
+com\project\api\service\WeatherService.class
