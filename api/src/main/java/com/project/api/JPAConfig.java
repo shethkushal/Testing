@@ -44,7 +44,7 @@ public class JPAConfig {
 //		ds.setUsername(env.getProperty("db.Username"));
 //		ds.setPassword(env.getProperty("db.Password"));
 		ds.setUsername("root");
-		ds.setPassword("");
+		ds.setPassword("root");
 		return ds;	
 	}
 	
