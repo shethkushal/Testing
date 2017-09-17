@@ -1,0 +1,12 @@
+C:\Users\Kushal\workspace\spring-api\src\main\java\com\project\spring_api\exceptions\BadRequestException.java
+C:\Users\Kushal\workspace\spring-api\src\main\java\com\project\spring_api\exceptions\NotFoundException.java
+C:\Users\Kushal\workspace\spring-api\src\main\java\com\project\spring_api\entity\Weather.java
+C:\Users\Kushal\workspace\spring-api\src\main\java\com\project\spring_api\config\WebConfig.java
+C:\Users\Kushal\workspace\spring-api\src\main\java\com\project\spring_api\repository\WeatherRepo.java
+C:\Users\Kushal\workspace\spring-api\src\main\java\com\project\spring_api\service\implementation\WeatherServiceImpl.java
+C:\Users\Kushal\workspace\spring-api\src\main\java\com\project\spring_api\constants\URI.java
+C:\Users\Kushal\workspace\spring-api\src\main\java\com\project\spring_api\service\WeatherService.java
+C:\Users\Kushal\workspace\spring-api\src\main\java\com\project\spring_api\entity\Wind.java
+C:\Users\Kushal\workspace\spring-api\src\main\java\com\project\spring_api\Application.java
+C:\Users\Kushal\workspace\spring-api\src\main\java\com\project\spring_api\config\SwaggerConfig.java
+C:\Users\Kushal\workspace\spring-api\src\main\java\com\project\spring_api\controller\WeatherController.java

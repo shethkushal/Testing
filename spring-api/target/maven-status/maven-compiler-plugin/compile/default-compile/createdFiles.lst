@@ -1,0 +1,12 @@
+com\project\spring_api\entity\Weather.class
+com\project\spring_api\constants\URI.class
+com\project\spring_api\service\implementation\WeatherServiceImpl.class
+com\project\spring_api\config\WebConfig.class
+com\project\spring_api\exceptions\NotFoundException.class
+com\project\spring_api\config\SwaggerConfig.class
+com\project\spring_api\repository\WeatherRepo.class
+com\project\spring_api\Application.class
+com\project\spring_api\entity\Wind.class
+com\project\spring_api\exceptions\BadRequestException.class
+com\project\spring_api\controller\WeatherController.class
+com\project\spring_api\service\WeatherService.class
