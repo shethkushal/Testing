@@ -1,0 +1,9 @@
+com\cartracker\service\repository\VehicleRepo.class
+com\cartracker\service\JPAConfig.class
+com\cartracker\service\repository\impl\VehicleRepoImpl.class
+com\cartracker\service\WebConfig.class
+com\cartracker\service\controller\VehicleController.class
+com\cartracker\service\ServletInitialize.class
+com\cartracker\service\entity\Vehicles.class
+com\cartracker\service\service\VehicleService.class
+com\cartracker\service\service\impl\VehicleServiceImpl.class
